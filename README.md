@@ -5,6 +5,8 @@
 Также, у меня есть большой опыт в области маркетинга и продвижения информационных продуктов.
 
 Сейчас активно развиваюсь в области анализа данных, улучшаю свои навыки в Python, SQL, статистике.
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white align="center")
 <hr>
 
 :wrench: **Языки и инструменты:**
