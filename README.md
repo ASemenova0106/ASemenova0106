@@ -7,7 +7,7 @@
 Сейчас активно развиваюсь в области анализа данных, улучшаю свои навыки в Python, SQL, статистике.
 
 <hr>
-:wrench: **Языки и инструменты:**
+### h3 :wrench: Языки и инструменты:
 
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28b1c53c653f8e5fc61381621de2804096f40d4fa347cfd460e05ce2d27fb4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/28b1c53c653f8e5fc61381621de2804096f40d4fa347cfd460e05ce2d27fb4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765" title="Python" alt="Python" height="40" data-canonical-src="https://img.shields.io/badge/python-white?logo=python&amp;style=for-the-badge" style="max-width: 100%;"></a> 
