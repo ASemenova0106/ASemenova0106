@@ -4,7 +4,7 @@
 Сейчас активно развиваюсь в области анализа данных, улучшаю свои навыки в Python, SQL, статистике.
 
 <hr>
-:wrench: Языки и инструменты :
+:wrench: **Языки и инструменты:**
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28b1c53c653f8e5fc61381621de2804096f40d4fa347cfd460e05ce2d27fb4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/28b1c53c653f8e5fc61381621de2804096f40d4fa347cfd460e05ce2d27fb4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765" title="Python" alt="Python" height="40" data-canonical-src="https://img.shields.io/badge/python-white?logo=python&amp;style=for-the-badge" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da027079ccf94fa4b4944c31991d83a6d205d17b78b35f5df74b73de6a2332fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/da027079ccf94fa4b4944c31991d83a6d205d17b78b35f5df74b73de6a2332fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" title="Pandas" alt="Pandas" height="40" data-canonical-src="https://img.shields.io/badge/pandas-white?logo=pandas&amp;logoColor=blue&amp;style=for-the-badge" style="max-width: 100%;"></a> 
@@ -24,8 +24,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baaf5e1a9158523784ea96088085eeb4b44ac2932739d1dfa4eee337ee7977af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4150492d4646363630303f7374796c653d666f722d7468652d6261646765266c6f676f3d415049"><img src="https://camo.githubusercontent.com/baaf5e1a9158523784ea96088085eeb4b44ac2932739d1dfa4eee337ee7977af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4150492d4646363630303f7374796c653d666f722d7468652d6261646765266c6f676f3d415049" alt="API" data-canonical-src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&amp;logo=API" style="max-width: 100%;"></a>
   
 </div>
-
-:mortar_board: Умею:
+<hr>
+:mortar_board: **Умею:**
 * Обработка данных и проведение А/В тестов с помощью Python
 * SQL: вложенные запросы, оконные функции, конструкции case
 * Визуализация данных и формирование дашбордов
@@ -33,7 +33,7 @@
 * Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
 * Автоматизация процессов через Airflow
 
-:books: Мои проекты:
+:books: **Мои проекты:**
 
 | Название проекта     | Описание проекта                       | Стек                            |
 | -------------------- | -------------------------------------- | ------------------------------- |
