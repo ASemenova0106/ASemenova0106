@@ -6,9 +6,7 @@
 
 Сейчас активно развиваюсь в области анализа данных, улучшаю свои навыки в Python, SQL, статистике.
 
-<div align="center" dir="auto">
-<a href="https://t.me/producer_semenova" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  style="max-width: 100%;"></a>
-</div>
+Связаться со мной: <a href="https://t.me/producer_semenova" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  style="max-width: 100%;"></a>
 <hr>
 
 :wrench: **Языки и инструменты:**
