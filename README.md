@@ -6,7 +6,7 @@
 
 Сейчас активно развиваюсь в области анализа данных, улучшаю свои навыки в Python, SQL, статистике.
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white align="center")
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <hr>
 
 :wrench: **Языки и инструменты:**
