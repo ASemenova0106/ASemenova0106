@@ -9,6 +9,11 @@
 <div align="center" dir="auto">
 <a href="https://t.me/producer_semenova" rel="nofollow"><img src="https://camo.githubusercontent.com/03ba074e0bfdf03740558814781ed0c1190958736966a5a8eb5356c89ab289bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>
 </div>
+
+<div align="center" dir="auto">
+<a href="https://t.me/producer_semenova" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  style="max-width: 100%;"></a>
+</div>
+
 <hr>
 
 :wrench: **Языки и инструменты:**
