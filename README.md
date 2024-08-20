@@ -47,3 +47,4 @@
 | -------------------- | -------------------------------------- | ------------------------------- |
 | Проект 1<br>E-Learning<br>([github](https://github.com/ASemenova0106/Learning))  | Анализ поведения пользователей и результатов завершения курсов, построение RFM-кластеров студентов  | Pandas  |
 | Проект 2<br>Рекламные объявления<br>([github](https://github.com/ASemenova0106/Reklama))  | Анализ рекламных объявлений, поиск среднего и скользящего среднего, построение графиков  | Pandas, numpy, matplotlib, seaborn |
+| Проект 3<br>A\B тест<br>([github]())  | В разработке  | Pandas, numpy, matplotlib, seaborn, scipy.stats |
