@@ -45,7 +45,7 @@
 
 | Название проекта     | Описание проекта                       | Стек                            |
 | -------------------- | -------------------------------------- | ------------------------------- |
-| Проект 1<br>E-Learning<br>([github](https://github.com/ASemenova0106/Learning))  | Анализ поведения пользователей и результатов завершения курсов, построение RFM-кластеров студентов  | Pandas  |
-| Проект 2<br>Рекламные объявления<br>([github](https://github.com/ASemenova0106/Reklama))  | Анализ рекламных объявлений, поиск среднего и скользящего среднего, построение графиков  | Pandas, numpy, matplotlib, seaborn |
-| Проект 3<br>Пицца<br>([github](https://github.com/ASemenova0106/Pizza))  | Анализ А/В-теста нового алгоритма приложения для курьеров доставки пиццы для сокращения времени доставки | Pandas, numpy, matplotlib, seaborn, scipy.stats |
+| Проект 1<br>E-Learning<br>([github](https://github.com/ASemenova0106/Learning))  | Анализ поведения пользователей и результатов завершения курсов, построение RFM-кластеров студентов  | Python (pandas)  |
+| Проект 2<br>Рекламные объявления<br>([github](https://github.com/ASemenova0106/Reklama))  | Анализ рекламных объявлений, поиск среднего и скользящего среднего, построение графиков  | Python (pandas, numpy, matplotlib, seaborn) |
+| Проект 3<br>Пицца<br>([github](https://github.com/ASemenova0106/Pizza))  | Анализ А/В-теста нового алгоритма приложения для курьеров доставки пиццы для сокращения времени доставки | Python (pandas, numpy, matplotlib, seaborn, scipy.stats) |
 | Проект 4<br>SQL<br>([github]([https://github.com/ASemenova0106](https://github.com/ASemenova0106/Online-shop-SQL)))  | Дашборд для отдела продаж онлайн-магазина, выбор метрик для поиска точек роста и новых бизнес-решений | SQL, Redash |
